@@ -1,0 +1,41 @@
+Host 210.160.137.58.in-addr.arpa. not found: 3(NXDOMAIN)
+137.49.244.61.in-addr.arpa domain name pointer 061244049137.static.ctinets.com.
+91.239.125.64.in-addr.arpa domain name pointer 64.125.239.91.ipyx-103607-zyo.zip.zayo.com.
+187.226.64.69.in-addr.arpa domain name pointer 069-064-226-187.pdx.net.
+131.135.6.71.in-addr.arpa domain name pointer census7.shodan.io.
+200.165.6.71.in-addr.arpa domain name pointer census12.shodan.io.
+36.47.82.74.in-addr.arpa is an alias for 36.0-26.47.82.74.in-addr.arpa.
+36.0-26.47.82.74.in-addr.arpa domain name pointer scan-11h.shadowserver.org.
+220.69.208.74.in-addr.arpa domain name pointer u18953240.onlinehome-server.com.
+105.155.208.74.in-addr.arpa domain name pointer u18953252.onlinehome-server.com.
+221.122.212.141.in-addr.arpa domain name pointer researchscan476.eecs.umich.edu.
+Host 193.138.216.186.in-addr.arpa. not found: 3(NXDOMAIN)
+Host 81.236.0.188.in-addr.arpa. not found: 3(NXDOMAIN)
+49.218.152.204.in-addr.arpa domain name pointer 204.152.218.49.static.quadranet.com.
+Host 206.185.209.205.in-addr.arpa. not found: 3(NXDOMAIN)
+164.68.56.45.in-addr.arpa domain name pointer li918-164.members.linode.com.
+150.243.87.52.in-addr.arpa domain name pointer ec2-52-87-243-150.compute-1.amazonaws.com.
+138.192.240.66.in-addr.arpa domain name pointer census8.shodan.io.
+146.219.240.66.in-addr.arpa domain name pointer ubuntu14219146.aspadmin.net.
+131.135.6.71.in-addr.arpa domain name pointer census7.shodan.io.
+166.158.6.71.in-addr.arpa domain name pointer ubuntu14158166.aspadmin.net.
+142.167.6.71.in-addr.arpa domain name pointer census9.shodan.io.
+248.10.208.74.in-addr.arpa domain name pointer u18953245.onlinehome-server.com.
+220.69.208.74.in-addr.arpa domain name pointer u18953240.onlinehome-server.com.
+105.155.208.74.in-addr.arpa domain name pointer u18953252.onlinehome-server.com.
+6.105.221.82.in-addr.arpa domain name pointer census10.shodan.io.
+7.105.221.82.in-addr.arpa domain name pointer census11.shodan.io.
+Host 4.75.236.91.in-addr.arpa. not found: 3(NXDOMAIN)
+131.144.128.104.in-addr.arpa domain name pointer www.probethenet.com.
+163.122.212.141.in-addr.arpa domain name pointer researchscan418.eecs.umich.edu.
+164.122.212.141.in-addr.arpa domain name pointer researchscan419.eecs.umich.edu.
+171.122.212.141.in-addr.arpa domain name pointer researchscan426.eecs.umich.edu.
+205.147.43.179.in-addr.arpa domain name pointer secured-by.zenmate.com.
+158.201.65.185.in-addr.arpa domain name pointer host1.luxuryhandbagmall.com.
+Host 113.5.130.185.in-addr.arpa. not found: 3(NXDOMAIN)
+114.70.20.198.in-addr.arpa domain name pointer census3.shodan.io.
+82.206.218.216.in-addr.arpa is an alias for 82.64-26.206.218.216.in-addr.arpa.
+82.64-26.206.218.216.in-addr.arpa domain name pointer scan-05d.shadowserver.org.
+100.206.218.216.in-addr.arpa is an alias for 100.64-26.206.218.216.in-addr.arpa.
+100.64-26.206.218.216.in-addr.arpa domain name pointer scan-07h.shadowserver.org.
+
